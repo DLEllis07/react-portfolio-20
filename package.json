@@ -1,5 +1,5 @@
 {
-  "homepage": "http://DLEllis07.github.io/react-portfolio-20",
+  "homepage": "https://dlellis07.github.io/react-portfolio-20/",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +7,9 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "dotenv": "^16.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.14.2",
